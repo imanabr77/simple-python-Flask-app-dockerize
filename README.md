@@ -1,4 +1,4 @@
-# simple-python-Flask-app-image
+# simple-python-Flask-app-dockerize
 
 
 ### How to run 
